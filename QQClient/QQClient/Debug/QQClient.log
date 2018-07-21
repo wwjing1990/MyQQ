@@ -1,0 +1,4 @@
+﻿  QQClientDlg.cpp
+d:\03_workspace\vs2017_workspace\myqq\qqclient\qqclient\qqclientdlg.cpp(252): warning C4101: “m_RootItem”: 未引用的局部变量
+d:\03_workspace\vs2017_workspace\myqq\qqclient\qqclient\qqclientdlg.cpp(253): warning C4101: “m_Num”: 未引用的局部变量
+  QQClient.vcxproj -> D:\03_Workspace\VS2017_Workspace\TCP\CClient\CClient\Debug\QQClient.exe
